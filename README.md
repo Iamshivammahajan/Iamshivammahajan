@@ -1,161 +1,32 @@
-# 🚧 Premium GitHub README
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shivam Mahajan
+=======================================================================================================================================
 
-> **Note:** This is the beginning of a production-ready README based on
-> the uploaded specification. It includes the required structure and is
-> ready to extend.
+AI/ML ENGINEER
+--------------
 
-```{=html}
-<p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF,8A2BE2,4B0082&height=220&section=header&text=Shivam%20Mahajan&fontSize=42&fontColor=ffffff"/>`{=html}
-```{=html}
+👨‍💻 AI & ML Engineer
+
+🐍 Python | NumPy | Pandas | Matplotlib | Seaborn | OpenCV
+
+📊 Data Analysis • 🤖 Machine Learning • 👁️ Computer Vision
+
+🚀 Building real-world AI applications
+
+* 🌍  I'm based in India
+* ✉️  You can contact me at [shivammahajan0501@gmail.com](mailto:shivammahajan0501@gmail.com)
+* 🧠  I'm currently learning PYTHON
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
 </p>
-```
-```{=html}
-<h1 align="center">
-```
-Hi 👋 I'm Shivam Mahajan
-```{=html}
-</h1>
-```
-```{=html}
-<h3 align="center">
-```
-AI & Machine Learning Engineer \| Python Developer \| Computer Vision
-Enthusiast
-```{=html}
-</h3>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning;Computer+Vision;Python+Developer;OpenCV+%7C+NumPy+%7C+Pandas;Building+Real+World+AI+Applications"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<a href="mailto:shivammahajan0501@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"/>`{=html}`</a>`{=html}
-`<a href="https://github.com/Iamshivammahajan">`{=html}`<img src="https://img.shields.io/badge/GitHub-Iamshivammahajan-black?style=for-the-badge"/>`{=html}`</a>`{=html}
-`<a href="https://linkedin.com/in/shivam-mahajan05">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>`{=html}`</a>`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
+### Socials
 
-# 👨‍💻 About Me
+<p align="left"> <a href="https://www.github.com/Iamshivammahajan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/shivam-mahajan05" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<a href="https://www.github.com/Iamshivammahajan" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Iamshivammahajan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Badges
 
--   🎓 B.Tech in Artificial Intelligence & Machine Learning
--   🤖 AI/ML & Computer Vision Developer
--   🐍 Python, OpenCV, NumPy, Pandas, Matplotlib, Seaborn
--   🚀 Building practical AI applications
+<b>My GitHub Stats</b>
 
-------------------------------------------------------------------------
-
-# 🛠 Tech Stack
-
-  Category    Skills
-  ----------- -----------------------
-  Languages   Python, C++
-  AI/ML       OpenCV, NumPy, Pandas
-  Databases   MySQL, SQLite
-  Tools       Git, GitHub, VS Code
-
-------------------------------------------------------------------------
-
-# 🧠 AI / ML Expertise
-
-  Domain             Level          Details
-  ------------------ -------------- -------------------
-  Computer Vision    Advanced       OpenCV, MediaPipe
-  Data Analysis      Advanced       Pandas, NumPy
-  Machine Learning   Intermediate   Model building
-  Python             Advanced       Automation & AI
-
-------------------------------------------------------------------------
-
-# 🚀 Featured Projects
-
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}LookNAct -- Gesture Based Command Interface`</b>`{=html}
-```{=html}
-</summary>
-```
-Python, OpenCV and MediaPipe based gesture-controlled computer
-interface.
-
-```{=html}
-</details>
-```
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}AI Chatbot`</b>`{=html}
-```{=html}
-</summary>
-```
-Python chatbot powered by AI APIs.
-
-```{=html}
-</details>
-```
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}Data Analysis & Visualization`</b>`{=html}
-```{=html}
-</summary>
-```
-EDA project using NumPy, Pandas, Matplotlib and Seaborn.
-
-```{=html}
-</details>
-```
-
-------------------------------------------------------------------------
-
-# 📜 Certifications
-
--   Infosys Springboard -- Python
--   Infosys Springboard -- Machine Learning
--   Infosys Springboard -- NLP
--   Cisco -- Introduction to Cybersecurity
-
-------------------------------------------------------------------------
-
-# 📊 GitHub Analytics
-
-Replace `YOUR_USERNAME` with `Iamshivammahajan` if needed.
-
--   GitHub Stats
--   Streak Stats
--   Top Languages
--   Activity Graph
--   Trophies
--   Snake Animation
-
-------------------------------------------------------------------------
-
-# 🌐 Connect
-
--   Email: shivammahajan0501@gmail.com
--   GitHub: https://github.com/Iamshivammahajan
--   LinkedIn: https://linkedin.com/in/shivam-mahajan05
-
-------------------------------------------------------------------------
-
-> *"Building intelligent solutions through code and continuous
-> learning."*
+<a href="http://www.github.com/Iamshivammahajan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamshivammahajan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
