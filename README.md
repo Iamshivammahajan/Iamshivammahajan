@@ -1,32 +1,188 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shivam Mahajan
-=======================================================================================================================================
+<div align="center">
 
-AI/ML ENGINEER
---------------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1DB954&height=220&section=header&text=Hi%20There,%20I'm%20Shivam%20Mahajan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20Developer&descAlignY=58&descSize=18"/>
 
-👨‍💻 AI & ML Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Computer+Vision+Developer;Python+Developer;OpenCV+%7C+Machine+Learning;Always+Learning+New+Things+%F0%9F%9A%80"/>
 
-🐍 Python | NumPy | Pandas | Matplotlib | Seaborn | OpenCV
+<br>
 
-📊 Data Analysis • 🤖 Machine Learning • 👁️ Computer Vision
+<img src="https://komarev.com/ghpvc/?username=Iamshivammahajan&label=Profile+Views&color=0E75B6&style=for-the-badge"/>
 
-🚀 Building real-world AI applications
+<img src="https://img.shields.io/github/followers/Iamshivammahajan?style=for-the-badge&color=0E75B6"/>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [shivammahajan0501@gmail.com](mailto:shivammahajan0501@gmail.com)
-* 🧠  I'm currently learning PYTHON
+<img src="https://img.shields.io/github/stars/Iamshivammahajan?style=for-the-badge&color=1DB954"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+<img align="right" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+🎓 **B.Tech in Artificial Intelligence & Machine Learning**
+
+🏫 **Indore Institute of Science & Technology (IIST), Indore**
+
+💡 Passionate about Artificial Intelligence, Machine Learning, Deep Learning and Computer Vision.
+
+🚀 I enjoy building real-world AI applications that solve practical problems.
+
+- 🌱 Currently learning **Deep Learning, Generative AI & Advanced Computer Vision**
+- 👨‍💻 Working on AI-powered applications
+- 💬 Ask me about **Python, OpenCV, Machine Learning**
+- 📫 **shivammahajan0501@gmail.com**
+- 🌍 India
+- ⚡ *Turning ideas into intelligent software.*
+
+<br>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
+
+<a href="https://github.com/Iamshivammahajan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shivam-mahajan05">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:shivammahajan0501@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Iamshivammahajan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/shivam-mahajan05" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/Iamshivammahajan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Iamshivammahajan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Badges
+# 🚀 Tech Stack
 
-<b>My GitHub Stats</b>
+## 👨‍💻 Programming Languages
 
-<a href="http://www.github.com/Iamshivammahajan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamshivammahajan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+</p>
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+</p>
+
+---
+
+## 📊 Data Science
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=numpy"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ⚙ Backend & Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+<img src="https://skillicons.dev/icons?i=django"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=sqlite"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+```text
+🧠 Deep Learning
+
+🤖 Generative AI
+
+👁 Computer Vision
+
+⚡ AI Agents
+
+🐍 Advanced Python
+```
+
+---
+
+# 🏆 Certifications
+
+✅ Infosys Springboard
+
+- Python
+
+- Machine Learning
+
+- Natural Language Processing
+
+---
+
+✅ Cisco Networking Academy
+
+- Introduction to Cybersecurity
+
+---
+
+⭐ Scroll down for Projects, GitHub Stats, LeetCode Calendar, Snake Animation and much more...
