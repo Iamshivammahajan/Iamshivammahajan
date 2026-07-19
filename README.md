@@ -119,8 +119,6 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=flask"/>
-
 <img src="https://skillicons.dev/icons?i=django"/>
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
@@ -187,144 +185,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-## 🖐️ LookNAct
-### Gesture-Based Command Interface
-
-An AI-powered Human-Computer Interaction system that allows users to control a computer using hand gestures using **OpenCV** and **MediaPipe**.
-
-### ✨ Features
-
-- 🖐 Hand Gesture Recognition
-- 🖱 Mouse Control
-- 🔊 Volume Control
-- ☀️ Brightness Control
-- 📸 Screenshot Capture
-- 🎵 Media Controls
-- ⚡ Real-time Detection
-
-### 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square)
-
-</td>
-
-<td width="50%">
-
-## 🤖 AI Chatbot
-
-An intelligent chatbot powered by modern AI models.
-
-### Features
-
-- 💬 Natural Conversations
-- ⚡ Fast Responses
-- 🧠 AI Powered
-- 🌐 Web Integration
-- 📚 Context Awareness
-
-### Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 📊 Data Analysis & Visualization
-
-Exploratory Data Analysis using Python.
-
-### Libraries
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
-### Skills
-
-✔ Data Cleaning
-
-✔ Data Visualization
-
-✔ Statistical Analysis
-
-</td>
-
-<td>
-
-## 🚀 More Projects Coming...
-
-- AI Applications
-- Deep Learning
-- NLP
-- Computer Vision
-- Automation Tools
-
-⭐ Stay Tuned
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🏅 Certifications
-
-<table>
-
-<tr>
-
-<td>
-
-### 🏆 Infosys Springboard
-
-- Python
-- Machine Learning
-- Natural Language Processing
-- Artificial Intelligence
-
-</td>
-
-<td>
-
-### 🏆 Cisco Networking Academy
-
-Introduction to Cybersecurity
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Iamshivammahajan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamshivammahajan&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -340,16 +200,6 @@ Introduction to Cybersecurity
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iamshivammahajan&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Iamshivammahajan&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
