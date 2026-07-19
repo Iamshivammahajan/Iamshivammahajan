@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1DB954&height=220&section=header&text=Hi%20There,%20I'm%20Shivam%20Mahajan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20Developer&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Computer+Vision+Developer;Python+Developer;OpenCV+%7C+Machine+Learning;Always+Learning+New+Things+%F0%9F%9A%80"/>
-
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Iamshivammahajan&label=Profile+Views&color=0E75B6&style=for-the-badge"/>
@@ -211,7 +209,7 @@
 
 <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo%202&ext=heatmap,contest"/>
+<img src="https://leetcard.jacoblin.cool/Iamshivammahajan?theme=dark&font=Baloo%202&ext=heatmap,contest"/>
 
 </a>
 
@@ -223,7 +221,7 @@
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/Iamshivammahajan?ext=heatmap"/>
 
 </p>
 
@@ -233,12 +231,8 @@
 
 <p align="center">
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/Iamshivammahajan/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Iamshivammahajan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shivam-mahajan05">
