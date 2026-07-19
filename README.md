@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1DB954&height=220&section=header&text=Hi%20There,%20I'm%20Shivam%20Mahajan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1DB954&height=220&section=header&text=Hi%20There,%20I'm%20Shivam%20Mahajan"/>
 
 <br>
+
 
 <img src="https://komarev.com/ghpvc/?username=Iamshivammahajan&label=Profile+Views&color=0E75B6&style=for-the-badge"/>
 
