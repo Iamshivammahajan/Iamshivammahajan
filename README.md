@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1DB954&height=220&section=header&text=Hi%20There,%20I'm%20Shivam%20Mahajan"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1DB954&height=220&section=header&text=Hi%20There,%20I'm%20Shivam%20Mahajan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Computer+Vision+Developer;Python+Developer;OpenCV+%7C+Machine+Learning;Always+Learning+New+Things+%F0%9F%9A%80"/>
 
 <br>
-
 
 <img src="https://komarev.com/ghpvc/?username=Iamshivammahajan&label=Profile+Views&color=0E75B6&style=for-the-badge"/>
 
@@ -138,11 +139,7 @@
 
 <img src="https://skillicons.dev/icons?i=vscode"/>
 
-<img src="https://skillicons.dev/icons?i=postman"/>
-
 <img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
 
 </p>
 
@@ -179,8 +176,6 @@
 ✅ Cisco Networking Academy
 
 - Introduction to Cybersecurity
-
----
 
 ---
 
