@@ -171,6 +171,10 @@
 
 ---
 
+# ☕ Fun Fact
+
+> **"The best way to learn programming is by building projects and solving real-world problems."**
+
 ---
 
 # 🌟 Support
@@ -188,27 +192,3 @@ Your support motivates me to build more open-source projects.
 </a>
 
 </p>
-
----
-
-# ☕ Fun Fact
-
-> **"The best way to learn programming is by building projects and solving real-world problems."**
-
----
-
-# 📌 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/Iamshivammahajan/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shivam-mahajan05">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
----
