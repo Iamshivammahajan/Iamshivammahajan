@@ -20,10 +20,6 @@
 
 <img align="right" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-🎓 **B.Tech in Artificial Intelligence & Machine Learning**
-
-🏫 **Indore Institute of Science & Technology (IIST), Indore**
-
 💡 Passionate about Artificial Intelligence, Machine Learning, Deep Learning and Computer Vision.
 
 🚀 I enjoy building real-world AI applications that solve practical problems.
@@ -55,7 +51,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/Iamshivammahajan/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -145,40 +141,6 @@
 
 ---
 
-# 📚 Currently Learning
-
-```text
-🧠 Deep Learning
-
-🤖 Generative AI
-
-👁 Computer Vision
-
-⚡ AI Agents
-
-🐍 Advanced Python
-```
-
----
-
-# 🏆 Certifications
-
-✅ Infosys Springboard
-
-- Python
-
-- Machine Learning
-
-- Natural Language Processing
-
----
-
-✅ Cisco Networking Academy
-
-- Introduction to Cybersecurity
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -199,20 +161,6 @@
 
 ---
 
-# 💻 LeetCode
-
-<p align="center">
-
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-
-<img src="https://leetcard.jacoblin.cool/Iamshivammahajan?theme=dark&font=Baloo%202&ext=heatmap,contest"/>
-
-</a>
-
-</p>
-
----
-
 # 📅 LeetCode Calendar (Heatmap)
 
 <p align="center">
@@ -224,43 +172,6 @@
 ---
 
 ---
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Iamshivammahajan/Iamshivammahajan/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</p>
-
----
-
-# 📊 GitHub Metrics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamshivammahajan&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamshivammahajan&theme=tokyonight" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamshivammahajan&theme=tokyonight" width="49%"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iamshivammahajan&theme=tokyonight" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iamshivammahajan&theme=tokyonight&utcOffset=5.5" width="49%"/>
-
-</p>
-
----
-
 
 # 🌟 Support
 
